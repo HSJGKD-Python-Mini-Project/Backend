@@ -1,0 +1,14 @@
+/venv
+/staticfiles
+/migrations
+**/__pycache__/
+**/**/__pycache__/
+env/
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+.env
+media/
